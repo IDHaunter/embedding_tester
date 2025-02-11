@@ -1,8 +1,8 @@
 /mta_archives/
 /node_modules/
 /resources/
-/fastembed_cache/
-/huggingface_cache/
+fastembed_cache/*
+huggingface_cache/*
 
 *.pt
 
