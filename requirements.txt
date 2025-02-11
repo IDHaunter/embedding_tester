@@ -1,0 +1,4 @@
+fastembed
+numpy
+scikit-learn
+sentence_transformers
