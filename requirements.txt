@@ -2,3 +2,7 @@ fastembed
 numpy
 scikit-learn
 sentence_transformers
+fasttext # only linux
+fasttext-wheel # for windows
+onnxruntime
+transformers
