@@ -6,3 +6,6 @@ fasttext # only linux
 fasttext-wheel # for windows
 onnxruntime
 transformers
+pdf2image
+pillow
+requests
