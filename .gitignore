@@ -2,7 +2,11 @@
 /node_modules/
 /resources/
 fastembed_cache/*
+fasttext_cache/*
+models/*
+word2vec_cache/*
 huggingface_cache/*
+cc.en.300.bin.gz
 
 *.pt
 

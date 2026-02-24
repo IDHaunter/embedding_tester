@@ -30,8 +30,8 @@ def cosine_similarity_score(vec1, vec2):
 
 def main():
     prefix = ''  #  query:  document:
-    text1 = f"{prefix}Машина"
-    text2 = f"{prefix}Автомобиль"
+    text1 = f"{prefix}Как найти банкомат в Бресте?"
+    text2 = f"{prefix}how to find an atm in Brest?"
 
     # I need a loan to buy a vehicle
     # How to get loan for vehicle?

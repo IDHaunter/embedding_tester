@@ -32,8 +32,8 @@ def cosine_similarity_score(vec1, vec2):
     return float(cosine_similarity([vec1], [vec2])[0][0])
 
 def main():
-    text1 = "I need a loan to buy a vehicle!"
-    text2 = "I dont need a loan to buy a vehicle!"
+    text1 = "Good day! Tell me how many people can I take with me to the Minsk1 airport business lounge with my card?"
+    text2 = "with a visa card, how many people can i take with me to the business lounge?"
 
     print(f"Phrase #1: {text1}")
     print(f"Phrase #2: {text2}\n")
