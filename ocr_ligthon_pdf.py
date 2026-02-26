@@ -25,7 +25,7 @@ def ocr_image_markdown(image_base64: str) -> str:
                 "content": [
                     {
                         "type": "text",
-                        "text": "Extract ALL text from the image and return it as clean Markdown. "
+                        "text": "Extract ALL text from the image and return it as Markdown. "
                                 "Preserve headings, lists, tables and formatting."
                     },
                     {

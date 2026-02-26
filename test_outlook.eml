@@ -1,0 +1,183 @@
+Received: from AM7PR09MB3848.eurprd09.prod.outlook.com (2603:10a6:20b:103::21)
+ by DU0PR09MB6094.eurprd09.prod.outlook.com with HTTPS; Mon, 23 Feb 2026
+ 14:15:43 +0000
+Authentication-Results: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=skybuffer.com;
+Received: from GV1PR09MB5979.eurprd09.prod.outlook.com (2603:10a6:150:a4::7)
+ by AM7PR09MB3848.eurprd09.prod.outlook.com (2603:10a6:20b:103::21) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9632.21; Mon, 23 Feb
+ 2026 14:15:41 +0000
+Received: from GV1PR09MB5979.eurprd09.prod.outlook.com
+ ([fe80::c663:73a0:cf2b:ee84]) by GV1PR09MB5979.eurprd09.prod.outlook.com
+ ([fe80::c663:73a0:cf2b:ee84%5]) with mapi id 15.20.9654.007; Mon, 23 Feb 2026
+ 14:15:41 +0000
+Date: Mon, 23 Feb 2026 14:15:40 +0000
+From: Tatsiana Skrypko <support@skybuffer.com>
+To: <d.salavei@skybuffer.com>
+Message-ID: <redmine.issue-33275.20260223141540.154@skybuffer.com>
+References: <redmine.issue-33275.20260223141540.154@skybuffer.com>
+Subject: [AI Core - SB_Feature #33275] (New) [AI Platform][OCR] OCR
+ Functionality Powered by GenAI Models | MVP
+Content-Type: multipart/alternative;
+	boundary="--==_mimepart_699c610ce7543_1ead592cc68456a"; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+X-Redmine-Project: nlp
+X-Redmine-Issue-Tracker: SB_Feature
+X-Redmine-Issue-Id: 33275
+X-Redmine-Issue-Author: t.skrypko
+X-Redmine-Issue-Assignee: d.salavei
+X-Redmine-Sender: t.skrypko
+X-Mailer: Redmine
+X-Redmine-Host: team.skybuffer.com
+X-Redmine-Site: Skybuffer Team | Projects Management and Help Desk
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+List-Id: <support.skybuffer.com>
+X-MS-Exchange-Organization-ExpirationStartTime: 23 Feb 2026 14:15:41.5882
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 0046414e-d03e-48af-67cb-08de72e606d5
+X-MS-Exchange-Organization-AuthSource: GV1PR09MB5979.eurprd09.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 06
+X-ClientProxiedBy: FR0P281CA0044.DEUP281.PROD.OUTLOOK.COM
+ (2603:10a6:d10:48::7) To GV1PR09MB5979.eurprd09.prod.outlook.com
+ (2603:10a6:150:a4::7)
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+Return-Path: support@skybuffer.com
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: GV1PR09MB5979:EE_|AM7PR09MB3848:EE_|DU0PR09MB6094:EE_
+X-MS-Office365-Filtering-Correlation-Id: 0046414e-d03e-48af-67cb-08de72e606d5
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:0;ARA:13230040|366016|8096899003|13003099007|41050700001;
+X-Forefront-Antispam-Report: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:GV1PR09MB5979.eurprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230040)(366016)(8096899003)(13003099007)(41050700001);DIR:INT;
+X-MS-Exchange-CrossTenant-Network-Message-Id: 0046414e-d03e-48af-67cb-08de72e606d5
+X-MS-Exchange-CrossTenant-AuthSource: GV1PR09MB5979.eurprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 23 Feb 2026 14:15:41.7506
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: 80483130-9fe4-49f7-9ea6-906096fe003a
+X-MS-Exchange-CrossTenant-MailboxType: HOSTED
+X-MS-Exchange-CrossTenant-UserPrincipalName: 9aG7MDLdy5mNKukU88kjWAMhxiFlEAmL+Gf6uSnHOiyPCwolteG15tB5tRD2Pyzv69YaYKxMapXjWQ25vFegug==
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: AM7PR09MB3848
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.6889986
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.9632.007
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944506478)(944626604)(920097)(425001)(930201)(20251009189)(140003);
+X-Microsoft-Antispam-Message-Info:
+	ug6BYcKhMZ3uRwFOQvAJHkb2259a1MOCl7yFhY3lNYA4XCFCePkCSVy7CdMpf7tUAcabIyEIFJvhfeOa8EjrgNokKOtSeJ/yl1IPp2mRbyB7bhbDaXCNtiOBCNwibFYKcOdtWy+RqugStNYsEi9eRA98rpX3U9tJH8fqmmX+qAQgQmXNQER3zpOt58mOSigPFzza+xZj1bRLT1BgvD82S6URynO6eGjPQ7IPoeGHkX99kJEVjmkknz1WqCQHEXhkp4Kla6tao8S1xyItiQ423/s4DAGrn/xuJvTd4o2k0IJNsyHxRaqKhJwFZ+d6bYC3pUs58HuKqjz135yOZ4cOyAtzENUyG2gTvbpNcXK3BkHUnmkYSwgKm9nQ5A/SHXKlZbvAF6m+VpJXSjr5FysbXPtmkNUwxvRG8pAZERSUjOaTE4kv36NBDEvv/HWC1InBZAH0jfkFgakHAG//l+rvSySdaAwx/ClyPFrxOyA2vhIqTgtlB1+ck/pnND/vNWFAvLkJOowSx5azFvN/fWb8L0Lixn+d1EvwqZscNHMV0EHlba2qhL7oxf53IOyYDwxJYwofn/SmmVkyckvBJA5KuA3Ixv1NNbZDSbx7QL6ziAGkbFXuAl8E2pnni467yAzZecPXa6tv0LyyUvsYMKLiPdA2Xqax/hotwPJ9E9MMdK9IXY1H2tigpL7t+yJr74yO43ThJc3B9t7vsLbSm9ap+xM8BxDZVk7T1c6LjCiNgPlyuNfH6LvYxsGgOtScs18d3Cugg7NB4hfmg/Avw+fHZo8KIBOp1PMJu2BG8Vj5/bbmpoJy48Xfi54VZS+8HWGXJDc0o6qnHCCtunBM9NxFTf/k1rH4cGOapf6tRjWf5qc=
+MIME-Version: 1.0
+
+----==_mimepart_699c610ce7543_1ead592cc68456a
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Issue #33275 has been reported by Tatsiana Skrypko.
+
+----------------------------------------
+SB_Feature #33275: [AI Platform][OCR] OCR Functionality Powered by GenAI Models | MVP
+https://team.skybuffer.com/issues/33275
+
+* Author: Tatsiana Skrypko
+* Status: New
+* Priority: Normal
+* Assignee: Dzmitry Salavei
+* Category: Artificial Intelligence
+* Target version: PI.26.04
+* Category (filtering): Artificial Intelligence
+* NFR: No
+* Documentation Created: No
+* Copywriter Check Required: No
+* Copywriter Check Passed: No
+----------------------------------------
+Tasks include
+
+1. [BASIS] Docker + vLLM Setup
+
+Build a Docker image including:
+
+* vLLM runtime
+* OCR model
+* Required dependencies
+* Optimize for GPU usage
+
+Deployment
+
+Deploy container on Hetzner GEX130 (GPU server)
+
+2. [AI] Implementation of initial POC version within Python application
+
+
+
+
+-- 
+"Once you stop learning, you start dying"
+--
+Albert Einstein
+
+----==_mimepart_699c610ce7543_1ead592cc68456a
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><style>a:link{color:#169}
+a:visited{color:#169}
+a:hover{color:#c61a1a}
+a:active{color:#c61a1a}</style></head>
+<body style="font-family:Verdana, sans-serif;font-size:14px;line-height:1.4em;color:#222">
+Issue <a href="https://team.skybuffer.com/issues/33275" style="color:#169">#33275</a> has been reported by Tatsiana Skrypko.
+<hr style="width:100%;height:1px;background:#ccc;border:0;margin:1.2em 0">
+<h1 style="font-family:&quot;Trebuchet MS&quot;, Verdana, sans-serif;margin:0px;font-size:1.3em;line-height:1.4em">
+  <a href="https://team.skybuffer.com/issues/33275" style="color:#169">SB_Feature #33275: [AI Platform][OCR] OCR Functionality Powered by GenAI Models | MVP</a>
+  <span class="badge badge-status-open" style="position:relative;font-weight:bold;font-size:10px;bottom:2px;padding:1px 3px;margin-right:2px;margin-left:2px;border-radius:2px;text-transform:uppercase;text-decoration:none;color:#205D86;border:1px solid #205D86">open</span>
+</h1>
+
+<ul class="details" style="color:#959595;margin-bottom:1.5em"><li><strong>Author: </strong>Tatsiana Skrypko</li>
+<li><strong>Status: </strong>New</li>
+<li><strong>Priority: </strong>Normal</li>
+<li><strong>Assignee: </strong>Dzmitry Salavei</li>
+<li><strong>Category: </strong>Artificial Intelligence</li>
+<li><strong>Target version: </strong>PI.26.04</li>
+<li><strong>Category (filtering): </strong>Artificial Intelligence</li>
+<li><strong>NFR: </strong>No</li>
+<li><strong>Documentation Created: </strong>No</li>
+<li><strong>Copywriter Check Required: </strong>No</li>
+<li><strong>Copywriter Check Passed: </strong>No</li></ul>
+
+<p>Tasks include</p>
+
+
+	<p>1. [BASIS] Docker + vLLM Setup</p>
+
+
+	<p>Build a Docker image including:</p>
+
+
+	<ul>
+	<li>vLLM runtime</li>
+		<li>OCR model</li>
+		<li>Required dependencies</li>
+		<li>Optimize for GPU usage</li>
+	</ul>
+
+
+	<p>Deployment</p>
+
+
+	<p>Deploy container on Hetzner GEX130 (GPU server)</p>
+
+
+	<p>2. [AI] Implementation of initial POC version within Python application</p>
+
+
+
+<hr style="width:100%;height:1px;background:#ccc;border:0;margin:1.2em 0">
+<span class="footer" style="font-size:0.8em;font-style:italic"><p>&quot;Once you stop learning, you start dying&quot; <br>--<br>Albert Einstein</p></span>
+</body>
+</html>
+
+----==_mimepart_699c610ce7543_1ead592cc68456a--
