@@ -9,3 +9,4 @@ transformers
 pdf2image
 pillow
 requests
+langchain_text_splitters

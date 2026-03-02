@@ -1,0 +1,234 @@
+================================================================================
+CHUNK_ID: 0
+SECTION_INDEX: 0
+SECTION_PATH: Transfers within BNB-Bank. > Transfer within BNB Bank between your own cards and accounts.
+--------------------------------------------------------------------------------
+Step 1. Log in to your account in the BNB-Bank mobile application. Step 2. At the bottom of the screen, go to the “Payments” section, then select “Transfer”, then – “Between my own”. Step 3. Select the card or account from which you want to transfer money and the account to which you want to transfer it, enter the amount and press “Transfer”. Funds will be credited instantly.
+
+================================================================================
+CHUNK_ID: 1
+SECTION_INDEX: 1
+SECTION_PATH: Transfers within BNB-Bank. > Transfer within BNB Bank to another BNB-Bank client by phone number.
+--------------------------------------------------------------------------------
+Step 1. Log in to your account in the BNB-Bank mobile application. Step 2. At the bottom of the screen, go to the “Payments” section, then select “Transfer”, then – “To a contact”. Step 3. Enter or select the number, then “Continue”. Step 4. Select the card or account from which you want to transfer money, enter the amount and press “Continue”. Enter the confirmation code. Funds will be credited instantly.  
+Transfer within BNB Bank to another BNB-Bank client by card number.
+
+================================================================================
+CHUNK_ID: 2
+SECTION_INDEX: 1
+SECTION_PATH: Transfers within BNB-Bank. > Transfer within BNB Bank to another BNB-Bank client by phone number.
+--------------------------------------------------------------------------------
+Transfer within BNB Bank to another BNB-Bank client by card number.  
+Step 1. Log in to your account in the BNB-Bank mobile application. Step 2. At the bottom of the screen, go to the “Payments” section, select “Transfer”, then – “To a BNB-Bank client”. Step 3. Select the card or account from which you want to transfer money, enter the recipient’s card number, amount and press “Continue”. Enter the confirmation code. Funds will be credited instantly.
+
+================================================================================
+CHUNK_ID: 3
+SECTION_INDEX: 2
+SECTION_PATH: Transfers within BNB-Bank. > Currency transfer to another BNB-Bank client.
+--------------------------------------------------------------------------------
+Both the sender and the recipient must have accounts opened in the currency of the transfer (without cards linked to them). The sender must send a photo of the passport, the transfer amount, the account from which the money should be sent, the recipient’s account and full name to customer@bnb.by. After a call from a specialist, you will be sent documents that need to be signed in the “More” – “Documents” – “Unsigned” section using an SMS code. Funds will be credited within a few hours. When crediting a transfer to a resident of the Republic of Belarus, no commission will be charged; when crediting to a non-resident of the Republic of Belarus, the commission will be 2.5% of the amount.
+
+================================================================================
+CHUNK_ID: 4
+SECTION_INDEX: 3
+SECTION_PATH: Card top-up. > Transfer between your own cards and accounts.
+--------------------------------------------------------------------------------
+Step 1. Log in to your account in the BNB-Bank mobile application. Step 2. At the bottom of the screen, go to the “Payments” section, then select “Transfer”, then – “Between my own”. Step 3. Select the card or account from which you want to transfer money and the account to which you want to transfer it, enter the amount and press “Transfer”. Funds will be credited instantly.
+
+================================================================================
+CHUNK_ID: 5
+SECTION_INDEX: 4
+SECTION_PATH: Card top-up. > Card top-up at BNB-Bank cash desks.
+--------------------------------------------------------------------------------
+To top up a card at the cash desk, you must have the card itself with you and know its PIN code. With this method, funds will be credited to the card balance instantly. Temporary top-up of virtual cards at bank cash desks is unavailable.
+
+================================================================================
+CHUNK_ID: 6
+SECTION_INDEX: 5
+SECTION_PATH: Card top-up. > Card top-up via ERIP.
+--------------------------------------------------------------------------------
+In ERIP, select the section “Banking, financial services” – “Banks, non-bank credit and financial organizations” – “BNB-Bank” – card top-up. Funds will become available in the balance within a few minutes. Top-up is possible only for cards in Belarusian rubles. This method is suitable for top-up both by the cardholder and by third parties through any device providing access to ERIP (for example, internet banking of any bank in the Republic of Belarus, info-kiosks, etc.). Please note that cash deposit through ATMs, info-kiosks and other self-service devices for topping up physical persons’ accounts via the ERIP system will only be possible using a card or another payment instrument that allows identification of its holder. This operation can also be performed at bank cash desks when using a
+
+================================================================================
+CHUNK_ID: 7
+SECTION_INDEX: 5
+SECTION_PATH: Card top-up. > Card top-up via ERIP.
+--------------------------------------------------------------------------------
+a card or another payment instrument that allows identification of its holder. This operation can also be performed at bank cash desks when using a card or another payment instrument that allows identification of its holder, as well as upon presentation of an identity document.
+
+================================================================================
+CHUNK_ID: 8
+SECTION_INDEX: 6
+SECTION_PATH: Card top-up. > Card top-up in the BNB-Bank application.
+--------------------------------------------------------------------------------
+For this method, it is sufficient to know the recipient’s card number as well as the full card details from which you will send the transfer (number, expiry date, name on the card, CVC/CVV code). The service is available in the “Payments” tab. Minimum transaction amount – 2 BYN, 20 USD/EUR, 20,000 RUB; maximum transaction amount – 1,000 BYN, 500 USD/EUR, 50,000 RUB. Daily limit – 5,000 BYN, 1,500 USD. Commission for transfer to a card of any bank in the Republic of Belarus in BYN is 1.5% (minimum 1.5 BYN), in foreign currency – 2% of the amount; top-up of BNB-Bank cards is possible without commission.
+
+================================================================================
+CHUNK_ID: 9
+SECTION_INDEX: 7
+SECTION_PATH: Card top-up. > Card top-up via ATM.
+--------------------------------------------------------------------------------
+Plastic BNB-Bank cards can be topped up only in Belarusian rubles at ATMs at the following addresses: Futuris Business Center (near the cash desks), Independence Avenue, 173 in Minsk; Titan Business Center (inside the branch), Dzerzhinsky Avenue, 104 in Minsk; Zamok Shopping Center (ATM on the left), Pobediteley Avenue, 65 in Minsk; Dana Mall Shopping Center (ATM on the right), Mstislavtsa Street, 11 in Minsk; Tivoli Shopping Center, Prytytskaha Street, 29 in Minsk; Gallery Shopping Center, Pobediteley Avenue, 9 in Minsk; Branch (ATM inside) at Independence, 87A in Minsk; Central Branch Office No. 9, Pobedy Avenue, 12B in Gomel; Central Branch Office No. 14, Leninskaya Street, 56 in Mogilev; Central Branch Office No. 18, Sotsialisticheskaya Street, 44 in Grodno; Central Branch Office No.
+
+================================================================================
+CHUNK_ID: 10
+SECTION_INDEX: 7
+SECTION_PATH: Card top-up. > Card top-up via ATM.
+--------------------------------------------------------------------------------
+Office No. 14, Leninskaya Street, 56 in Mogilev; Central Branch Office No. 18, Sotsialisticheskaya Street, 44 in Grodno; Central Branch Office No. 12, Gogolya Street, 42 in Brest. Card top-up is also possible at bank cash desks and currency exchange points. Top-up via token as well as in foreign currency is unavailable. Through our bank’s ATMs it is possible to top up Mastercard payment system cards issued by other banks of the Republic of Belarus, as well as Belkart payment system cards of other Belarusian banks (from January 29, 2026) with cash in Belarusian rubles. The maximum amount of a single transaction is 500 BYN (including commission). The commission for performing such a transaction will be deducted from the amount inserted into the ATM’s bill acceptor and will amount to 1.5% of
+
+================================================================================
+CHUNK_ID: 11
+SECTION_INDEX: 7
+SECTION_PATH: Card top-up. > Card top-up via ATM.
+--------------------------------------------------------------------------------
+The commission for performing such a transaction will be deducted from the amount inserted into the ATM’s bill acceptor and will amount to 1.5% of the transaction amount (minimum 2 BYN).
+
+================================================================================
+CHUNK_ID: 12
+SECTION_INDEX: 8
+SECTION_PATH: Card top-up. > Card top-up via WebPay.
+--------------------------------------------------------------------------------
+Unfortunately, card or account top-up using the “Top up” – “From another bank’s card” operation via the WebPay payment service is temporarily unavailable in the mobile application. We will definitely notify you when the function becomes available.
+
+================================================================================
+CHUNK_ID: 13
+SECTION_INDEX: 9
+SECTION_PATH: Card top-up. > Card top-up in “Oplati”.
+--------------------------------------------------------------------------------
+You can top up a card in various ways: 1. From an “Oplati” electronic wallet via the “Top up” button under the card. Enter the amount and select the wallet for debiting. 2. Via ERIP. Top-up details and the path in ERIP can be viewed by pressing the “Top up” button under the wallet in the “Oplati” application, then press the “Via ERIP” button. 3. By card number. Press the “Top up” button under the wallet in the “Oplati” application, then – the “From another bank’s card” button and “By virtual card number”.
+
+================================================================================
+CHUNK_ID: 14
+SECTION_INDEX: 10
+SECTION_PATH: Card top-up. > Card top-up from abroad.
+--------------------------------------------------------------------------------
+The limit for such operations is 2,000 USD per day (equivalent). Commission for topping up a BNB-Bank card in Belarusian rubles via a transfer using services of non-resident banks – 1.5% of the amount (maximum 225 BYN). Top-up of the Bank’s cards in foreign currency via a transfer using services of non-resident banks – 2% of the amount.
+
+================================================================================
+CHUNK_ID: 15
+SECTION_INDEX: 11
+SECTION_PATH: Card top-up. > Card top-up via third-party transfer services.
+--------------------------------------------------------------------------------
+Both the cardholder and a third party can top up the card. As a rule, to perform a top-up this way it is sufficient to know the full card number, its expiry date and the holder’s name. The commission for the transfer will be charged by the service itself. The Bank does not charge a commission for crediting. As a rule, funds become available in the balance within a few minutes. If you use our bank’s P2P transfer service to top up our cards – the payment is made without commission and instantly.
+
+================================================================================
+CHUNK_ID: 16
+SECTION_INDEX: 12
+SECTION_PATH: Card top-up. > Card top-up by a third party.
+--------------------------------------------------------------------------------
+If a third party wishes to top up your card or current account, they must have an identity document, the account number in IBAN format of the product being topped up, the full name of the card (account) holder and a Belarusian phone number. With this top-up method, funds will appear in the account immediately, and in the card balance on the next business day.
+
+================================================================================
+CHUNK_ID: 17
+SECTION_INDEX: 13
+SECTION_PATH: Account top-up.
+--------------------------------------------------------------------------------
+Top-up between your own accounts. Step 1. Log in to your account in the BNB-Bank mobile application. Step 2. At the bottom of the screen, go to the “Payments” section, then select “Transfer”, then – “Between my own”. Step 3. Select the card or account from which you want to transfer money, the account to which you need to transfer, enter the amount and press “Transfer”.
+
+================================================================================
+CHUNK_ID: 18
+SECTION_INDEX: 13
+SECTION_PATH: Account top-up.
+--------------------------------------------------------------------------------
+Account top-up from other banks in Belarus. Via ERIP. Step 1. Log in to your account in the bank’s mobile application. Step 2. Follow the path: ERIP → Banking, financial services → Banks, non-bank credit and financial organizations → BNB-Bank → Account top-up. Step 3. Enter the IBAN account number and press “Next”. Step 4. Check the entered data, specify the amount, press “Next”. Step 5. Press “Pay” and confirm the operation. Via WebPay. Unfortunately, card or account top-up using the “Top up” – “From another bank’s card” operation via the WebPay payment service is temporarily unavailable in the mobile application. We will definitely notify you when the function becomes available. Via SMP. Step 1. In the “BNB-Bank” mobile application, open a current account in Belarusian rubles (BYN) in
+
+================================================================================
+CHUNK_ID: 19
+SECTION_INDEX: 13
+SECTION_PATH: Account top-up.
+--------------------------------------------------------------------------------
+you when the function becomes available. Via SMP. Step 1. In the “BNB-Bank” mobile application, open a current account in Belarusian rubles (BYN) in the “Products” – “Accounts” section. If you already have an account, proceed to step 2. Step 2. On the selected settlement account in BYN page, press the “Instant payment” field. Step 3. Check that your phone number is correct and press the “Connect” button. Step 4. Confirm connection of your phone number to the instant payments system using the SMS code. Done!
+
+================================================================================
+CHUNK_ID: 20
+SECTION_INDEX: 13
+SECTION_PATH: Account top-up.
+--------------------------------------------------------------------------------
+Account top-up using a QR code. Step 1. Log in to your account in the BNB-Bank mobile application. Step 2. At the bottom of the screen, go to the “Products” section and select the required account, then in the account menu press “Cash”. Step 3. Select the required operation (withdrawal or deposit) and operation location, specify the amount, press “Continue”. Step 4. Confirm the operation with the code from the SMS message. Step 5. Scan the QR code at the cash desk.  
+Account top-up by a third party. If a third party wishes to top up your current account, they must have an identity document, the account number in IBAN format of the product being topped up, the full name of the recipient and a Belarusian phone number. After top-up, the funds will become available immediately.
+
+================================================================================
+CHUNK_ID: 21
+SECTION_INDEX: 14
+SECTION_PATH: Deposit top-up. > Deposit top-up via BNB-Bank.
+--------------------------------------------------------------------------------
+In the mobile application, select the deposit you want to top up, then press the “Top up” button and select the source of top-up (account or card). Top-up terms depend on the conditions of your deposit.
+
+================================================================================
+CHUNK_ID: 22
+SECTION_INDEX: 15
+SECTION_PATH: Deposit top-up. > Deposit top-up at a BNB-Bank cash desk.
+--------------------------------------------------------------------------------
+To top up a deposit, you can visit a BNB-Bank office specialist with your passport. Third parties can also top up the deposit – for this they need to present a passport, account number and the full name of the deposit holder.
+
+================================================================================
+CHUNK_ID: 23
+SECTION_INDEX: 16
+SECTION_PATH: Transfers to / from other banks in Belarus. > Top-up of a card / account of another bank in Belarus in Belarusian rubles.
+--------------------------------------------------------------------------------
+Via ERIP. In ERIP, select the section “Banking, financial services” – “Banks, non-bank credit and financial organizations” – name of the bank – “Card top-up / account top-up”. Crediting speed depends on the recipient bank. Top-up is possible only for cards in Belarusian rubles. For possible restrictions on the transfer amount, we recommend checking with ERIP support. This method is suitable for top-up both by the cardholder and by third parties through any device providing access to ERIP (for example, internet banking of any bank in the Republic of Belarus, info-kiosks, etc.). Please note that cash deposit through ATMs, info-kiosks and other self-service devices for topping up physical persons’ accounts via the ERIP system will only be possible using a card or another payment instrument
+
+================================================================================
+CHUNK_ID: 24
+SECTION_INDEX: 16
+SECTION_PATH: Transfers to / from other banks in Belarus. > Top-up of a card / account of another bank in Belarus in Belarusian rubles.
+--------------------------------------------------------------------------------
+self-service devices for topping up physical persons’ accounts via the ERIP system will only be possible using a card or another payment instrument that allows identification of its holder. This operation can also be performed at bank cash desks when using a card or another payment instrument that allows identification of its holder, as well as upon presentation of an identity document. Via the BNB-Bank application. For this method, it is sufficient to know the recipient’s card number as well as the full card details from which you will send the transfer (number, expiry date, name on the card, CVC/CVV code). The service is available in the “Payments” tab. Minimum transaction amount – 2 BYN, 20 USD/EUR, 20,000 RUB; maximum transaction amount – 1,000 BYN, 500 USD/EUR, 50,000 RUB. Daily
+
+================================================================================
+CHUNK_ID: 25
+SECTION_INDEX: 16
+SECTION_PATH: Transfers to / from other banks in Belarus. > Top-up of a card / account of another bank in Belarus in Belarusian rubles.
+--------------------------------------------------------------------------------
+“Payments” tab. Minimum transaction amount – 2 BYN, 20 USD/EUR, 20,000 RUB; maximum transaction amount – 1,000 BYN, 500 USD/EUR, 50,000 RUB. Daily limit – 5,000 BYN, 1,500 USD. Commission for transfer to a card of any bank in the Republic of Belarus in BYN is 1.5% (minimum 1.5 BYN), in foreign currency – 2% of the amount; top-up of BNB-Bank cards is possible without commission.
+
+================================================================================
+CHUNK_ID: 26
+SECTION_INDEX: 17
+SECTION_PATH: Transfers to / from other banks in Belarus. > Sending currency to another bank in Belarus. > Card-to-card transfer in the BNB-BANK mobile application.
+--------------------------------------------------------------------------------
+Transfer in foreign currency from our bank’s card to a card of another bank in Belarus can be performed in the BNB-BANK mobile application. Commission from our bank for such a transfer – 2% of the amount. Please note that this transfer is not available for the following types of cards: corporate cards of both sender and recipient issued by the Bank; cards of sender and recipient issued by non-resident banks; Belkart cards.
+
+================================================================================
+CHUNK_ID: 27
+SECTION_INDEX: 18
+SECTION_PATH: Transfers to / from other banks in Belarus. > Sending currency to another bank in Belarus. > Card-to-card transfer via third-party transfer services.
+--------------------------------------------------------------------------------
+Transfer from our bank’s card to a card of another bank can be performed via third-party transfer services that you can choose yourself on the Internet. Commission from our bank for such a transfer – 2% of the amount (min. 2 BYN); commission from the transfer service may also apply.
+
+================================================================================
+CHUNK_ID: 28
+SECTION_INDEX: 19
+SECTION_PATH: Transfers to / from other banks in Belarus. > Interbank transfer.
+--------------------------------------------------------------------------------
+Send an interbank transfer in foreign currency is possible at a bank branch as well as remotely. To perform the transfer, you need to visit a BNB-Bank office. You must have an open account in the currency of the transfer with an amount sufficient to send the transfer in full, including the bank’s commission. Please note that you can send a transfer at our bank only on weekdays until 16:00. You must have with you a supporting document signed by you (this may be an invoice, contract, details, etc.), as well as a passport. For remote transfer processing, write to us at customer@bnb.by. To prepare the payment order, attach a supporting document signed by you (this may be an invoice, contract, details, etc.), as well as scanned copies of passport pages No. 31-33 and registration. Please note
+
+================================================================================
+CHUNK_ID: 29
+SECTION_INDEX: 19
+SECTION_PATH: Transfers to / from other banks in Belarus. > Interbank transfer.
+--------------------------------------------------------------------------------
+signed by you (this may be an invoice, contract, details, etc.), as well as scanned copies of passport pages No. 31-33 and registration. Please note that for successful remote transfer you need to: be registered in the BNB-Bank application to be able to sign documents using an SMS code. Documents for signing will be located in your personal account in the “More” – “Documents” section; your current passport data must be on file with the bank; you must have an open account in the currency of the transfer; sufficient funds must be available in the account to send the transfer in full, taking into account the transfer commission. After successful transfer sending, you will receive a scanned copy of the payment order with a stamp and signature. The executed payment order will be placed in the
+
+================================================================================
+CHUNK_ID: 30
+SECTION_INDEX: 19
+SECTION_PATH: Transfers to / from other banks in Belarus. > Interbank transfer.
+--------------------------------------------------------------------------------
+transfer sending, you will receive a scanned copy of the payment order with a stamp and signature. The executed payment order will be placed in the “Documents” section, after which you will be able to download it. Please note that you can send an international transfer at our bank only on weekdays until 16:00. Commission for transfer to other banks in Belarus in USD: up to 3,000 US dollars inclusive – 150 USD, over 3,000 US dollars – 2% of the amount (min. 200 USD). Commission for transfer to other banks in Belarus in EUR: up to 3,000 euros inclusive – 200 EUR, over 3,000 euros – 2% of the amount (min. 300 EUR). Commission for transfer to other banks in Belarus in RUB – 0.5% of the amount (min. 20 USD). Commission for transfer to other banks in Belarus in CNY – 0.45% of the amount (min.
+
+================================================================================
+CHUNK_ID: 31
+SECTION_INDEX: 19
+SECTION_PATH: Transfers to / from other banks in Belarus. > Interbank transfer.
+--------------------------------------------------------------------------------
+banks in Belarus in RUB – 0.5% of the amount (min. 20 USD). Commission for transfer to other banks in Belarus in CNY – 0.45% of the amount (min. 50 USD). Commission for transfer to other banks in Belarus in PLN: up to 3,000 US dollars inclusive – 50 USD, over 3,000 US dollars – 1.1% of the amount (min. 100 USD). Commission for transfer to other banks in Belarus in Kazakh tenge, Georgian lari: up to 3,000 US dollars inclusive – 150 USD, over 3,000 US dollars – 2% of the amount (min. 200 USD).
+
+================================================================================
+CHUNK_ID: 32
+SECTION_INDEX: 20
+SECTION_PATH: Transfers to / from other banks in Belarus. > Receive currency from another Belarusian bank.
+--------------------------------------------------------------------------------
+The bank does not set limits on incoming transfers. For residents and non-residents, the fee for depositing funds to an account with or without a card is 2.5% of the amount; for withdrawing from a current account without a card, the fee is 0.5% of the amount; for withdrawing from a current account with a card, but not using it, the fee is 1% of the amount. Please note that banks involved in the transfer may deduct a commission from the transfer amount. Details for depositing funds to current accounts of individuals, including accounts with cards or deposit accounts, can be found at this link.
+
